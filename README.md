@@ -2,6 +2,7 @@
 UNIMODAL and MULTIMODAL CNN MODELS TO PREDICT OSTEOPOROSIS
 
 UNIMODAL_CT.ipynb and UNIMODAL_MRI.ipynb are the saved models in Jupyter Notebook.
+UNIMODAL_CT.html and UNIMODAL_MRI.html are the saved models in Jupyter Notebook as html.
 
 
 UNIMODALMR FOLDER: 
