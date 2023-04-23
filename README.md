@@ -1,7 +1,7 @@
 # OSTEO_MODELS
 UNIMODAL and MULTIMODAL CNN MODELS TO PREDICT OSTEOPOROSIS
 
-Multimodal.ipynb, UNIMODAL_CT.ipynb and UNIMODAL_MRI.ipynb are the saved models in Jupyter Notebook.
+Multimodal.ipynb, UNIMODAL_CT.ipynb and UNIMODAL_MRI.ipynb are the saved models in Jupyter Notebook and can be used for TESTING OSTEOPOROSIS.
 
 UNIMODAL_CT.html and UNIMODAL_MRI.html are the saved models in Jupyter Notebook as html.
 
@@ -16,7 +16,7 @@ UNIMODALMR FOLDER:
 
 UNIMODAL.h5 --> Saved final model and weights for MRI Unimodal Model, 
 
-UNIMODALMR.py --> Python program for testing MRI images,
+UNIMODALMR.py --> Python program for testing MRI images for Osteoporosis,
 
 trainable.py --> trainable unimodal model example with 2 images training.
 
@@ -29,7 +29,7 @@ UNIMODALCT FOLDER:
 
 UNIMODALCT.h5 --> Saved final model and weights for CT Unimodal Model, 
 
-UNIMODALCT.py --> Python program for testing CT images.
+UNIMODALCT.py --> Python program for testing CT images for Osteoporosis.
 
 
 MULTIMODAL FOLDER: 
