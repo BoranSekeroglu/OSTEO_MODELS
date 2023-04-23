@@ -38,6 +38,10 @@ mri0.jpg, mri1.jpg, ct0.jpg, ct1.jpg images are the same images as in unimodal f
 
 multimodal.h5 --> Saved final model and weights for MRI multimodal Model, 
 
+multimodal.py --> Python program for testing CT and MRI images for Osteoporosis as multimodal.
+
+trainable_multimodal.py --> trainable multimoal model.
+
 Note: The architectures of the UNIMODALCT.py and UNIMODALMR.py are same as in trainable_model.py, and the architecture of multimodal model includes two unimodal paths for CT and MRI images separately.
 
 
