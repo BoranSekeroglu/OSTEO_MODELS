@@ -48,3 +48,5 @@ Note: The architectures of the UNIMODALCT.py and UNIMODALMR.py are same as in tr
 Requirements:
 
 Tensorflow Keras 2.11.0, Numpy 1.24.2
+
+Publication: Küçükçiloğlu Y, Şekeroğlu B, Adalı T, Şentürk N. Prediction of osteoporosis using MRI and CT scans with unimodal and multimodal deep-learning models. Diagn Interv Radiol. 13 June 2023 DOI: 10.4274/dir.2023.232116 [Epub Ahead of Print].
