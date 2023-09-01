@@ -1,11 +1,14 @@
 # OSTEO_MODELS
+Paper: Y. Küçükçiloğlu, B. Sekeroglu, T. Adalı, N. Şentürk, Prediction of osteoporosis using MRI and CT scans with unimodal and multimodal deep-learning models, Diagnostic and Interventional Radiology, 2023.
+
+
 UNIMODAL and MULTIMODAL CNN MODELS TO PREDICT OSTEOPOROSIS
 
-Multimodal.ipynb, UNIMODAL_CT.ipynb and UNIMODAL_MRI.ipynb are the saved models in Jupyter Notebook and can be used for TESTING OSTEOPOROSIS.
+Multimodal.ipynb, UNIMODAL_CT.ipynb, and UNIMODAL_MRI.ipynb are the saved models in Jupyter Notebook and can be used for TESTING OSTEOPOROSIS.
 
 UNIMODAL_CT.html and UNIMODAL_MRI.html are the saved models in Jupyter Notebook as html.
 
-trainable_unimodal.ipynb and trainable_multimodal.ipynb are the trainable models (training includes a few sample images)
+trainable_unimodal.ipynb and trainable_multimodal.ipynb is the trainable models (training includes a few sample images)
 
 UNIMODALMR FOLDER: 
 
@@ -18,7 +21,7 @@ UNIMODAL.h5 --> Saved final model and weights for MRI Unimodal Model,
 
 UNIMODALMR.py --> Python program for testing MRI images for Osteoporosis,
 
-trainable.py --> trainable unimodal model example with 2 images training.
+trainable.py --> trainable unimodal model example with two images training.
 
 
 UNIMODALCT FOLDER: 
@@ -40,9 +43,9 @@ multimodal.h5 --> Saved final model and weights for MRI multimodal Model,
 
 multimodal.py --> Python program for testing CT and MRI images for Osteoporosis as multimodal.
 
-trainable_multimodal.py --> trainable multimoal model.
+trainable_multimodal.py --> trainable multimodal model.
 
-Note: The architectures of the UNIMODALCT.py and UNIMODALMR.py are same as in trainable_model.py, and the architecture of multimodal model includes two unimodal paths for CT and MRI images separately.
+Note: The architectures of the UNIMODALCT.py and UNIMODALMR.py are the same as in trainable_model.py, and the architecture of the multimodal model includes two unimodal paths for CT and MRI images separately.
 
 
 Requirements:
