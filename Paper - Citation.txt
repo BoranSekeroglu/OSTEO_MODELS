@@ -1,0 +1,1 @@
+Y. Kucukciloglu, B. Sekeroglu, T. Adali, N. Senturk, Prediction of osteoporosis using MRI and CT scans with unimodal and multimodal deep-learning models, Diagnostic and Interventional Radiology, 2023.DOI: 10.4274/dir.2023.232116
